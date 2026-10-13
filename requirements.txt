@@ -1,0 +1,13 @@
+# Core Desktop Application Framework
+PySide6>=6.8.0
+
+# Computer Vision & Machine Learning
+opencv-python>=4.10.0
+mediapipe>=0.10.0
+numpy>=1.26.0
+
+# System, Battery & Power Monitoring
+psutil>=5.9.0
+
+# Testing
+pytest>=8.0.0

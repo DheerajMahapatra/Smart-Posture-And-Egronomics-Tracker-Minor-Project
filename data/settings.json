@@ -1,0 +1,18 @@
+{
+  "reminder_interval_sec": 300,
+  "persistence_threshold_sec": 20,
+  "max_warnings": 3,
+  "correction_confirmation_sec": 3.0,
+  "camera_index": 0,
+  "show_camera_preview": true,
+  "demo_mode": false,
+  "target_fps": 15,
+  "emergency_shortcut": "Esc",
+  "save_event_history": true,
+  "enable_sound_alerts": true,
+  "enable_tray_notifications": true,
+  "auto_detect_camera": true,
+  "ip_camera_url": "",
+  "battery_check_interval_sec": 300,
+  "burst_duration_sec": 3.0
+}
