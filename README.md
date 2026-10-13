@@ -208,3 +208,6 @@ The Smart Posture and Ergonomics Tracker is engineered from the ground up to res
 ## ⚠️ Ergonomic Disclaimer
 
 *Notice: This application provides automated workplace ergonomic posture tracking and habit awareness only. It is not a medical device and does not diagnose, treat, or prevent any spinal, orthopedic, or medical conditions.*
+
+
+## Make Ui Dynamic
